@@ -6,6 +6,9 @@ void function_1(){
 void function_2(){
     //function 2
 }
+void function_3(){
+    
+}
 
 int main() {
     cout << "Hello, world!" << std::endl;
